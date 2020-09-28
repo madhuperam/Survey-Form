@@ -1,0 +1,58 @@
+html{
+  background-color: #f4eeff;
+}
+
+body{
+  /* background-color: ; */
+  /* background-color: #f0e3ff; */
+  /* background: border-box (180deg, #c2a9dB 20%, #f0e3ff 80%); */
+  /* background:border-box #c2a9dB; */
+  font-family: 'Ubuntu', sans-serif;
+}
+
+select{
+  width: 90%;
+  height: 40px;
+}
+
+label{
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.txt{
+  height: 35px;
+  width: 90%;
+}
+
+
+
+.required{
+  color: red;
+}
+
+.form-div{
+/*
+  padding: 20px; */
+
+}
+
+.section-div{
+  border: 1px solid #deddfa;
+  margin: auto;
+  width: 50%;
+  border-radius: 5px;
+  background-color: white;
+  /*  */
+}
+
+.section-div-text{
+  padding: 30px;
+  font-size: 17px;
+}
+
+#title-div-color{
+  background-color: #7e0cf5;
+  padding-bottom: 8px;
+  border-radius: 4px 4px 0 0 ;
+}
